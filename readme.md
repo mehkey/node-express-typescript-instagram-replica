@@ -11,9 +11,25 @@ yarn add pg
 
 yarn add fs
 
+yarn add -D typescript @types/node @types/express
+
+npx tsc --init
+
+yarn add fs
+
 yarn install
 
 yarn start
+
+yarn add chai
+
+yarn add -D @types/jest
+
+yarn add -D @types/mocha
+
+yarn add jest mocha  
+
+yarn add -D @types/chai 
 
 ```
 
